@@ -1,0 +1,3 @@
+# 0.21.0
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/webhook@sha256:c862f6dc7dfc15f72e01913bb1533c877405acddc444b912bdc879f40cb98a54
+MAINTAINER ljp

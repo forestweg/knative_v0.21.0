@@ -1,0 +1,3 @@
+# 0.21.0
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/mtchannel_broker@sha256:30b138da4cdbbc68c61f6e517f98be66d462c251d73039f0fae5e4784ef89bba
+MAINTAINER ljp
